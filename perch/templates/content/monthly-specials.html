@@ -1,0 +1,23 @@
+<div class="whats-new-item">
+<h4><perch:content id="heading" type="text" label="Heading"  /></h4>
+<perch:if exists="image">
+<img src="<perch:content id="image" type="image" label="Image" />" alt="" />
+</perch:if>
+<perch:if exists="item-content1">
+<p><perch:content id="item-content1" type="textarea" label="Content"  /></p>
+</perch:if>
+<perch:if exists="item-content2">
+<p><perch:content id="item-content2" type="textarea" label="Content"  /></p>
+</perch:if>
+<perch:if exists="item-content3">
+<p><perch:content id="item-content3" type="textarea" label="Content"  /></p>
+</perch:if>
+<perch:if exists="item-content4">
+<p><perch:content id="item-content4" type="textarea" label="Content"  /></p>
+</perch:if>
+<p><a href="<perch:content id="link" type="text" label="Link"  />"><perch:content id="link-text" type="text" label="Link Text"  /></a></p>
+<perch:if exists="link-2">
+<p><a href="<perch:content id="link-2" type="text" label="Link"  />"><perch:content id="link-text-2" type="text" label="Link 2 Text"  /></a></p>
+</perch:if>
+<br class="clear" />
+</div>
