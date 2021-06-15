@@ -4,7 +4,7 @@
       <img src="img/edgebanding-img.jpg" alt="" />
       <h3>Edgebanding</h3>
       <p>From an easy, cost-effective way to cover raw board edges to a unique design to give your project the final touch, we have the perfect solution for you.  We carry all the thin PVC colors that match our stocked Panolam melamine colors.  In real wood edgebanding, we stock automatic and pre-glued for all the species we carry.</p>
-      <ul id="tabs" >
+      <ul id="tabs">
         <li> <a href="#tab1">PVC Edgeband</a> </li>
         <li> <a href="#tab2">Real Wood Veneer</a> </li>
       </ul>
