@@ -1,6 +1,5 @@
 <?php include('inc/doc.php'); ?>
-<body id="about-us">
-    
+<body id="about-us"> 
 <?php include('inc/header.php'); ?>
       <img src="img/about-us-img.jpg" alt="" />
       <h3>About Us</h3>
